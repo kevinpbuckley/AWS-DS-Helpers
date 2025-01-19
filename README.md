@@ -1,3 +1,5 @@
+Requires AWS Powershell Module :  https://www.powershellgallery.com/packages/AWSPowerShell/4.1.739
+
 Copy the Helpers folder in to the root of your project.
 
 copy-files.ps1 -buildType "Blue"     
