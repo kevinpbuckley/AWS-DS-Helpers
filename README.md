@@ -1,3 +1,5 @@
+helper scripts for running windows server locally using GameLift Anywehere Fleet
+
 Requires AWS Powershell Module :  https://www.powershellgallery.com/packages/AWSPowerShell/4.1.739
 
 Copy the Helpers folder in to the root of your project.
