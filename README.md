@@ -1,3 +1,5 @@
+Copy the Helpers folder in to the root of your project.
+
 copy-files.ps1 -buildType "Blue"     
 
   -copies the SSL DLL's and Install.bat file that is needed to the server.
